@@ -9,7 +9,7 @@ public class Estudiante{
         this.curso = "NA";
     }
     public  Estudiante(String nombre, String curso){
-        this.nombre = nombre;_
+        this.nombre = nombre;
         this.curso = curso;
     }
     public String getNombre(){
